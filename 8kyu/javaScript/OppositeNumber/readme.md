@@ -11,4 +11,4 @@ But can you do it in 1 line of code and without any conditionals?
 
 # Link : 
 
-[https://www.codewars.com/kata/opposite-number/javascript](https://www.codewars.com/kata/opposite-number/)
+[Opposite numbers](https://www.codewars.com/kata/opposite-number/)
